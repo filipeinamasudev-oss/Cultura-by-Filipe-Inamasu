@@ -28,6 +28,7 @@ img {
 
 h1 {
     font-family: "Times New Roman", sans-serif;
+    text-align: center;
 }
 
 form {
@@ -103,4 +104,13 @@ button[type="submit"]:hover {
 
 button[type="reset"]:hover {
     background-color: #f44336;
+}
+input[type="tel"] 
+input[type="file"] {
+    margin-bottom: 0;
+}
+
+small{
+    margin-bottom: 20px;
+    display: inline-block;
 }
