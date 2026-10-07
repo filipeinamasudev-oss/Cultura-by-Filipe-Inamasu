@@ -105,7 +105,8 @@ button[type="submit"]:hover {
 button[type="reset"]:hover {
     background-color: #f44336;
 }
-input[type="tel"] {
+input[type="tel"] 
+input[type="file"] {
     margin-bottom: 0;
 }
 
